@@ -1,0 +1,56 @@
+{
+  "stranger things": {
+    "tmdbID": "66732",
+    "seasons": {
+      "1": {
+        "episodes": [
+          {
+            "episode": "1",
+            "embedLink": "https://gobooly.strp2p.com/#w3xbr"
+          },
+          {
+            "episode": "2",
+            "embedLink": "https://gobooly.strp2p.com/#w3xbr"
+          },
+          {
+            "episode": "3",
+            "embedLink": "https://gobooly.strp2p.com/#w3xbr"
+          },
+          {
+            "episode": "4",
+            "embedLink": "https://gobooly.strp2p.com/#w3xbr"
+          }
+        ]
+      }
+    }
+  },
+  "young sheldon": {
+    "tmdbID": "71728",
+    "seasons": {
+      "1": {
+        "episodes": [
+          {
+            "episode": "1",
+            "embedLink": "https://gobooly.strp2p.com/#w3xbr"
+          },
+          {
+            "episode": "2",
+            "embedLink": "https://gobooly.strp2p.com/#w3xbr"
+          }
+        ]
+      },
+      "2": {
+        "episodes": [
+          {
+            "episode": "1",
+            "embedLink": "https://gobooly.strp2p.com/#w3xbr"
+          },
+          {
+            "episode": "2",
+            "embedLink": "https://gobooly.strp2p.com/#w3xbr"
+          }
+        ]
+      }
+    }
+  }
+}

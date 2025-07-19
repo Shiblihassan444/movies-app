@@ -1,0 +1,112 @@
+{
+  "featured": [
+    {
+      "tmdbID": "502356",
+      "embedLink": "https://gobooly.strp2p.com/#w3xbr"
+    },
+    {
+      "tmdbID": "646097",
+      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
+      "category": "FEATURE"
+    },
+    {
+      "tmdbID": "429617",
+      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
+      "category": "FEATURE"
+    },
+    {
+      "tmdbID": "348",
+      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
+      "category": "FEATURE"
+    },
+    {
+      "tmdbID": "399566",
+      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
+      "category": "FEATURE"
+    }
+  ],
+  "Action": [
+    {
+      "tmdbID": "502356",
+      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
+      "category": "FEATURE"
+    },
+    {
+      "tmdbID": "646097",
+      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
+      "category": "FEATURE"
+    },
+    {
+      "tmdbID": "429617",
+      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
+      "category": "FEATURE"
+    },
+    {
+      "tmdbID": "348",
+      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
+      "category": "FEATURE"
+    },
+    {
+      "tmdbID": "399566",
+      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
+      "category": "FEATURE"
+    }
+  ],
+  "latest": [
+    {
+      "tmdbID": "912649",
+      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
+      "category": "Dual Audio ORG"
+    },
+    {
+      "tmdbID": "840430",
+      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
+      "category": "WEB-DL [HD]"
+    },
+    {
+      "tmdbID": "1184918",
+      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
+      "category": "WEB-DL [HD]"
+    },
+    {
+      "tmdbID": "1100782",
+      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
+      "category": "Dual Audio ORG"
+    },
+    {
+      "tmdbID": "912649",
+      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
+      "category": "Dual Audio ORG"
+    },
+    {
+      "tmdbID": "840430",
+      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
+      "category": "WEB-DL [HD]"
+    },
+    {
+      "tmdbID": "1184918",
+      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
+      "category": "WEB-DL [HD]"
+    },
+    {
+      "tmdbID": "1100782",
+      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
+      "category": "Dual Audio ORG"
+    },
+    {
+      "tmdbID": "1029235",
+      "embedLink": "https://gobooly.strp2p.com/#w3xbr",
+      "category": "WEB-DL [HD]"
+    }
+  ],
+  "hero": [
+    {
+      "tmdbID": "10138",
+      "embedLink": "https://gobooly.strp2p.com/#w3xbr"
+    },
+    {
+      "tmdbID": "804150",
+      "embedLink": "https://gobooly.strp2p.com/#w3xbr"
+    }
+  ]
+}
