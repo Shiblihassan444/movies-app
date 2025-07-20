@@ -12,7 +12,7 @@ interface SeriesCardProps {
 
 export default function SeriesCard({ series, size = "md" }: SeriesCardProps) {
   const cardSizes = {
-    sm: "w-40 h-60",
+    sm: "w-28 h-40", // smaller for mobile
     md: "w-48 h-72",
     lg: "w-56 h-80",
   };

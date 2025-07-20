@@ -84,14 +84,14 @@ export default function MovieSection({
           </div>
         </div>
         {/* Mobile: horizontal scrollable row */}
-        <div className="sm:hidden overflow-x-auto -mx-4 px-4">
-          <div className="flex gap-4 flex-nowrap">
+        <div className="sm:hidden overflow-x-auto -mx-2 px-2">
+          <div className="flex gap-2 flex-nowrap">
             {movies.map((item, index) => (
               <div key={item.movie.id} className="flex-shrink-0">
                 <MovieCard
                   movie={item.movie}
                   category={item.category}
-                  size="md"
+                  size="sm"
                 />
               </div>
             ))}

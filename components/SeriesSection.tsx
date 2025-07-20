@@ -80,11 +80,11 @@ export default function SeriesSection({
           </div>
         </div>
         {/* Mobile: horizontal scrollable row */}
-        <div className="sm:hidden overflow-x-auto -mx-4 px-4">
-          <div className="flex gap-4 flex-nowrap">
+        <div className="sm:hidden overflow-x-auto -mx-2 px-2">
+          <div className="flex gap-2 flex-nowrap">
             {series.map((seriesItem) => (
               <div key={seriesItem.id} className="flex-shrink-0">
-                <SeriesCard series={seriesItem} size="md" />
+                <SeriesCard series={seriesItem} size="sm" />
               </div>
             ))}
           </div>
